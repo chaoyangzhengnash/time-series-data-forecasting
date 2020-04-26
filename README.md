@@ -27,5 +27,5 @@ We noticed that the TBATS performs best in the non-summer period while ARX works
 
 The  model selcted is the hybrid model, which performs the best at 3.595% MAPE in the validation dataset. This model implement the TBATS model in the summer perod and ARX in the non-summer period. The following graph show how the hubrid model can fit the actual data through time.
 
-![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/forecasting-project/master/graph/6.PNG "Optional title")
+![Alt text](https://raw.githubusercontent.com/chaoyangzhengnash/forecasting-project/master/graph/6.png "Optional title")
 
